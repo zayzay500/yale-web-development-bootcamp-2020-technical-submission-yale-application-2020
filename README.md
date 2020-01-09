@@ -12,4 +12,4 @@ Congratulations on making it to the end of this course! It's time put your newfo
 5. Create a variable caleld `height_message` using the ternary operator. If your height in inches is greater than average, the message should say "You are taller than average." Otherwise, it should say "You are not taller than average."
 
 
-When you're done, you can test your code by running `ruby app.rb` from the provided Terminal. You should see an output message from the computer. Good luck!ß
+When you're done, you can test your code by running `ruby app.rb` from the provided Terminal. You should see an output message from the computer. You can then submit the lab by running `learn submit` from the Terminal. Good luck!
