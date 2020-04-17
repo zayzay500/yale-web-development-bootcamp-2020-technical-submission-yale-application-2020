@@ -7,7 +7,7 @@ name = "Lindsay Pierce"
 age = 19
 favorite_food = "hungry man hero"
 height_in_inches = 70
-height_message ? "You are taller than average" : "You are not taller than average"
+height_message = (height_in_inches > AVERAGE_HEIGHT_IN_INCHES) ? "You are taller than average" : "You are not taller than average"
 
 ## Do not modify below this line!
 
